@@ -1,0 +1,5 @@
+#+TITLE: c_language_complete_course_2024
+#+DESCRIPTION: c_language_complete_course_2024 is Complete C language course by Joseph Programming Company.
+#+AUTHOR: Joseph Programming Company
+
+
