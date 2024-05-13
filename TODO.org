@@ -5,9 +5,12 @@
 * C Langugae Complete Course 2024 - Joseph Programming Company
 
 ** TODO: 13 - May - 2024
-**** TODO Setup Repository
-**** TODO Setup Folder Structure
-**** TODO Create Video Thumbnail
+**** DONE Setup Repository
+CLOSED: [2024-05-13 Mon 10:51]
+**** DONE Setup Folder Structure
+CLOSED: [2024-05-13 Mon 10:51]
+**** DONE Create Video Thumbnail
+CLOSED: [2024-05-13 Mon 10:51]
 **** TODO Introduction and Environment Setup
 
 
