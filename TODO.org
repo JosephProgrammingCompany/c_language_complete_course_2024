@@ -1,0 +1,15 @@
+#+TITLE: TODO - c_language_complete_course_2024
+#+DESCRIPTION: TODO - c_language_complete_course_2024.
+#+AUTHOR: Joseph Programming Company
+
+* C Langugae Complete Course 2024 - Joseph Programming Company
+
+** TODO: 13 - May - 2024
+**** TODO Setup Repository
+**** TODO Setup Folder Structure
+**** TODO Create Video Thumbnail
+**** TODO Introduction and Environment Setup
+
+
+
+
